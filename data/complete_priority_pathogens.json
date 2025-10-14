@@ -25,7 +25,7 @@
       "https://www.cdc.gov/antimicrobial-resistance/media/pdfs/antimicrobial-resistance-threats-update-2022-508.pdf"
     ]
   },
-  "last_updated": "2025-05-09",
+  "last_updated": "2025-10-14",
   "expected_number_of_taxa": 198,
   "taxa": [
     {
@@ -67,7 +67,7 @@
       "family": "Filoviridae",
       "priority": "Critical Priority Group",
       "disease": "Ebola",
-      "taxids": 3052462,
+      "taxids": 3052460,
       "number_of_priority_lists": 3,
       "niaid_notes": "Viral hemorrhagic fevers (filoviruses), Antiviral Program for Pandemics",
       "prioritized_by": [
@@ -95,7 +95,7 @@
       "family": "Filoviridae",
       "priority": "Critical Priority Group",
       "disease": "Ebola",
-      "taxids": 3052460,
+      "taxids": 3052462,
       "number_of_priority_lists": 3,
       "niaid_notes": "Viral hemorrhagic fevers (filoviruses), Antiviral Program for Pandemics",
       "prioritized_by": [
